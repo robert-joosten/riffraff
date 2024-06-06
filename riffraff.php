@@ -5,12 +5,13 @@
  * @package       RIFFRAFF
  * @author        Robert Joosten
  * @license       gplv2
- * @version       2024060604
+ * @version       2024060605
  *
  * @wordpress-plugin
  * Plugin Name:   Robert Forbids Riffraff
+ * Plugin URI:    https://github.com/robert-joosten/riffraff 
  * Description:   This plugin adds one php file that makes a wp-site somewhat more secure.
- * Version:       2024060604
+ * Version:       2024060605
  * Author:        Robert Joosten
  * Text Domain:   riffraff
  * Domain Path:   /languages
